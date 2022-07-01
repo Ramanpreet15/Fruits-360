@@ -1,3 +1,3 @@
 # Fruit-360
-A ML classifers that can distinguish between 131 categories of Fruits and Vegetables
+PRML Course Project where we evaluated the performance of different ML classifersto distinguish between 131 categories of Fruits and Vegetables
 combined.
